@@ -1,0 +1,30 @@
+{
+  "name": "tictactoe-api-feng",
+  "version": "1.0.3",
+  "description": "JSON API to tictactoe-agent",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fengxiaoyong1/tictactoe-api-1"
+  },
+  "keywords": [
+    "tictactoe",
+    "api"
+  ],
+  "author": "stujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengxiaoyong1/tictactoe-api-1/issues"
+  },
+  "homepage": "https://github.com/fengxiaoyong1/tictactoe-api-1i#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "tictactoe-agent": "^2.1.1",
+    "jb20cm": "1.0.0",
+    "tictactoe-api-penglang": "1.0.2"
+  }
+}
